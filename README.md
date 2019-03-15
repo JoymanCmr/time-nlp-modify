@@ -1,5 +1,5 @@
 ## 简介
-Time-NLP-Modify的python3版本 ()
+Time-NLP-Modify的python3版本 (站在巨人的肩膀上进行修改的)
 ## 功能说明
 用于句子中时间词的抽取和转换  
 详情请见test.py
